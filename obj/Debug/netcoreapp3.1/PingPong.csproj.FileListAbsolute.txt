@@ -1,0 +1,13 @@
+C:\Users\PC\source\repos\CrossingTheRoad\CrossingTheRoad\bin\Debug\netcoreapp3.1\PingPong.exe
+C:\Users\PC\source\repos\CrossingTheRoad\CrossingTheRoad\bin\Debug\netcoreapp3.1\PingPong.deps.json
+C:\Users\PC\source\repos\CrossingTheRoad\CrossingTheRoad\bin\Debug\netcoreapp3.1\PingPong.runtimeconfig.json
+C:\Users\PC\source\repos\CrossingTheRoad\CrossingTheRoad\bin\Debug\netcoreapp3.1\PingPong.runtimeconfig.dev.json
+C:\Users\PC\source\repos\CrossingTheRoad\CrossingTheRoad\bin\Debug\netcoreapp3.1\PingPong.dll
+C:\Users\PC\source\repos\CrossingTheRoad\CrossingTheRoad\bin\Debug\netcoreapp3.1\PingPong.pdb
+C:\Users\PC\source\repos\CrossingTheRoad\CrossingTheRoad\obj\Debug\netcoreapp3.1\PingPong.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\CrossingTheRoad\CrossingTheRoad\obj\Debug\netcoreapp3.1\PingPong.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\CrossingTheRoad\CrossingTheRoad\obj\Debug\netcoreapp3.1\PingPong.AssemblyInfo.cs
+C:\Users\PC\source\repos\CrossingTheRoad\CrossingTheRoad\obj\Debug\netcoreapp3.1\PingPong.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\CrossingTheRoad\CrossingTheRoad\obj\Debug\netcoreapp3.1\PingPong.dll
+C:\Users\PC\source\repos\CrossingTheRoad\CrossingTheRoad\obj\Debug\netcoreapp3.1\PingPong.pdb
+C:\Users\PC\source\repos\CrossingTheRoad\CrossingTheRoad\obj\Debug\netcoreapp3.1\PingPong.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\PC\source\repos\CrossingTheRoad\CrossingTheRoad\bin\Debug\netcoreapp3.1\CrossingTheRoad.exe
+C:\Users\PC\source\repos\CrossingTheRoad\CrossingTheRoad\bin\Debug\netcoreapp3.1\CrossingTheRoad.deps.json
+C:\Users\PC\source\repos\CrossingTheRoad\CrossingTheRoad\bin\Debug\netcoreapp3.1\CrossingTheRoad.runtimeconfig.json
+C:\Users\PC\source\repos\CrossingTheRoad\CrossingTheRoad\bin\Debug\netcoreapp3.1\CrossingTheRoad.runtimeconfig.dev.json
+C:\Users\PC\source\repos\CrossingTheRoad\CrossingTheRoad\bin\Debug\netcoreapp3.1\CrossingTheRoad.dll
+C:\Users\PC\source\repos\CrossingTheRoad\CrossingTheRoad\bin\Debug\netcoreapp3.1\CrossingTheRoad.pdb
+C:\Users\PC\source\repos\CrossingTheRoad\CrossingTheRoad\obj\Debug\netcoreapp3.1\CrossingTheRoad.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\CrossingTheRoad\CrossingTheRoad\obj\Debug\netcoreapp3.1\CrossingTheRoad.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\CrossingTheRoad\CrossingTheRoad\obj\Debug\netcoreapp3.1\CrossingTheRoad.AssemblyInfo.cs
+C:\Users\PC\source\repos\CrossingTheRoad\CrossingTheRoad\obj\Debug\netcoreapp3.1\CrossingTheRoad.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\CrossingTheRoad\CrossingTheRoad\obj\Debug\netcoreapp3.1\CrossingTheRoad.dll
+C:\Users\PC\source\repos\CrossingTheRoad\CrossingTheRoad\obj\Debug\netcoreapp3.1\CrossingTheRoad.pdb
+C:\Users\PC\source\repos\CrossingTheRoad\CrossingTheRoad\obj\Debug\netcoreapp3.1\CrossingTheRoad.genruntimeconfig.cache
